@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"resu",
+				"resultats〔variable〕"
+			],
+			[
+				"ligen",
+				"ligne[7"
+			],
+			[
+				"lignes",
+				"lignes_Sep〔variable〕"
+			],
+			[
+				"nett",
+				"nettoyer"
+			],
+			[
+				"N",
+				"Nombre"
+			],
+			[
+				"ligne",
+				"lignes_Sep〔variable〕"
+			],
+			[
+				"angular",
+				"angular.min.js"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"Post",
+				"PostAdmin〔class〕"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"Bla",
+				"BlatAdmin〔class〕"
+			],
+			[
+				"tes",
+				"test_rsf"
+			],
+			[
+				"test",
+				"test_esf"
+			],
+			[
+				"ma",
+				"matable"
+			],
+			[
+				"la",
+				"lattitudes〔variable〕"
+			],
+			[
+				"conne",
+				"connexion〔variable〕"
+			],
+			[
+				"cal",
+				"calcul_ratio〔argument〕"
+			],
+			[
+				"comp",
+				"compare_match_all〔function〕"
+			],
+			[
+				"oth",
+				"other_target〔variable〕"
+			],
+			[
+				"fir",
+				"first_ratio〔variable〕"
+			],
+			[
+				"mon",
+				"mon_iter〔variable〕"
+			],
+			[
+				"dic",
+				"dict_target_ratio〔argument〕"
+			],
+			[
+				"v",
+				"valeur"
+			],
+			[
+				"replace",
+				"replacecm〔function〕"
+			],
+			[
+				"dict",
+				"dict_ratio〔argument〕"
+			],
+			[
+				"my",
+				"my_iter〔variable〕"
+			],
+			[
+				"my_",
+				"my_ratio"
+			],
+			[
+				"first",
+				"first_ratio〔variable〕"
+			],
+			[
+				"dist",
+				"distances〔variable〕"
+			],
+			[
+				"latlon",
+				"latlong〔variable〕"
+			],
+			[
+				"lat",
+				"latlong〔variable〕"
+			],
+			[
+				"latlong",
+				"latlong2〔variable〕"
+			],
+			[
+				"forec",
+				"forecast_out〔variable〕"
+			],
+			[
+				"to",
+				"token_sort_ratio"
+			],
+			[
+				"user",
+				"user_search_two〔variable〕"
+			],
+			[
+				"table",
+				"table6〔variable〕"
+			],
+			[
+				"loo",
+				"lookup"
+			],
+			[
+				"phr",
+				"phrase_resultat〔variable〕"
+			],
+			[
+				"phrase",
+				"phrase_resultat"
+			],
+			[
+				"tab",
+				"table_artistes2〔variable〕"
+			],
+			[
+				"or",
+				"ordered_values〔variable〕"
+			],
+			[
+				"pie",
+				"pie_chart〔variable〕"
+			],
+			[
+				"donn",
+				"donnees_ensemble〔variable〕"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"exec",
+				"execute"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "select colo",
+		"selected_items":
+		[
+			[
+				"select colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/igorstaroseltsev/Documents/rapport_EJ_SF2/stat.R",
+		"/Volumes/Lexar/fournisseurs.txt",
+		"/Users/igorstaroseltsev/Documents/CARTE_ACHAT2/rep_circo_carte_achat.R",
+		"/Users/igorstaroseltsev/Desktop/json",
+		"/Users/igorstaroseltsev/Desktop/datacamp_query",
+		"/Users/igorstaroseltsev/Desktop/exo",
+		"/Users/igorstaroseltsev/Desktop/Anomalies_corriger_impots_2017",
+		"/Users/igorstaroseltsev/Desktop/texte/discours2.txt",
+		"/Users/igorstaroseltsev/Desktop/texte/discours.txt",
+		"/Users/igorstaroseltsev/Documents/etude_circos2/mon-traitement.py",
+		"/Users/igorstaroseltsev/Documents/rapport_EJ_SF/traitement.py",
+		"/Users/igorstaroseltsev/Documents/rapport_EJ_SF/ME80FN_20170323.TXT",
+		"/Users/igorstaroseltsev/Documents/etude_circos/traitement.R",
+		"/Users/igorstaroseltsev/Desktop/indicateur-SF/traitement.R",
+		"/Users/igorstaroseltsev/Desktop/OneDrive/mesNotes/R/geographic_map/departements/departements-20170102.shx",
+		"/Users/igorstaroseltsev/Desktop/OneDrive/mesNotes/R/geographic_map/departements/departements-20170102.dbf",
+		"/Users/igorstaroseltsev/Desktop/OneDrive/mesNotes/R/geographic_map/departements/departements-20170102.shp",
+		"/Users/igorstaroseltsev/Documents/rapport_EJ_SF/classes.py",
+		"/Users/igorstaroseltsev/Documents/rapport_EJ_SF/ME80FN_TO_LISTEJ.py",
+		"/Volumes/Lexar/Portable_Python_2.7.5.1/PROJETEJSF/SF_POLE/ME80FN_Pole.py",
+		"/Users/igorstaroseltsev/Desktop/interet-moratoire/nbrIM.txt",
+		"/Users/igorstaroseltsev/Desktop/malette_chorus_/partie4_chorus/echantillon_chorus/ZLISTEJ_GLOB_20161003C.txt",
+		"/Users/igorstaroseltsev/Desktop/illustratot-to-povray.svg",
+		"/Users/igorstaroseltsev/Desktop/cfehome/src/cfehome/settings.py",
+		"/Users/igorstaroseltsev/Documents/site_maman/monAudioPrive/models.py",
+		"/Users/igorstaroseltsev/Documents/EMACSLIB/django_model_create_many.el",
+		"/Users/igorstaroseltsev/Documents/newblogmaman/blogmaman/posts/views.py",
+		"/Users/igorstaroseltsev/Documents/site_maman/mesPhotosPrivees/models.py",
+		"/Users/igorstaroseltsev/Desktop/tryangular/index.html",
+		"/Users/igorstaroseltsev/Documents/newblogmaman/blogmaman/posts/admin.py",
+		"/Users/igorstaroseltsev/Documents/newblogmaman/blogmaman/terminal.glue",
+		"/Users/igorstaroseltsev/Documents/newblogmaman/blogmaman/posts/urls.py",
+		"/Users/igorstaroseltsev/Documents/newblogmaman/blogmaman/blogmaman/urls.py",
+		"/Users/igorstaroseltsev/Documents/newblogmaman/blogmaman/posts/models.py",
+		"/Users/igorstaroseltsev/Documents/newblogmaman/blogmaman/templates/index.html",
+		"/Users/igorstaroseltsev/Documents/newblogmaman/blogmaman/blogmaman/settings.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/pygal_visualisation/tuto5_bar_complet/etude.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/pygal_visualisation/tuto5_bar_complet/change_color_bar.py",
+		"/Users/igorstaroseltsev/Documents/SF/SF_FACT/prog_python/resultats_tdb/graphe.svg",
+		"/Users/igorstaroseltsev/Documents/SF/SF_FACT/prog_python/resultats_tdb/table.html",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/pygal_visualisation/tuto4_style/courbe.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/vague2/match_clean/cm.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/csv/tutoriel/collections/Tuto3_OrderedDict/ordereddict.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto1bis_prise_en_main/code_fromcolumns.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto1bis_prise_en_main/code.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto1bis_prise_en_main/new_table.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto5_addfield/operations_colonnes.py",
+		"/Users/igorstaroseltsev/Documents/R/data/strings.R",
+		"/Users/igorstaroseltsev/Desktop/mesImages/test.txt",
+		"/Users/igorstaroseltsev/Desktop/mesImagestest.txt",
+		"/Users/igorstaroseltsev/Desktop/test.txt",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto1_values_csv/video/etl1.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/vague2/etl_plus/cm.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/vague2/aggregation/aggregation.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/vague2/aggregation/ag_code.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto1bis_prise_en_main/empty",
+		"/Users/igorstaroseltsev/Documents/R/maps/regions_2015_metropole_region.shp",
+		"/Users/igorstaroseltsev/Documents/projet_meetup/base.py",
+		"/Users/igorstaroseltsev/Documents/projet_meetup/base2.py",
+		"/Users/igorstaroseltsev/Documents/projet_meetup/distance.py",
+		"/Users/igorstaroseltsev/Documents/projet_meetup/importcsv.py",
+		"/Users/igorstaroseltsev/Documents/projet_meetup/res_etl.py",
+		"/Users/igorstaroseltsev/Documents/R/ggvis/local_variables",
+		"/Users/igorstaroseltsev/Documents/R/ggvis/scale2",
+		"/Users/igorstaroseltsev/Documents/R/ggvis/Axes",
+		"/Users/igorstaroseltsev/Desktop/image_plot/plot_750592360.svg",
+		"/Users/igorstaroseltsev/Documents/R/ggvis/properties_point",
+		"/Users/igorstaroseltsev/Documents/R/etude_carceral/importR.R",
+		"/Users/igorstaroseltsev/Documents/R/etude_carceral/etude_carceral.R",
+		"/Users/igorstaroseltsev/Documents/R/etude_carceral/scan.R",
+		"/Users/igorstaroseltsev/Documents/R/machine_learning/tapply",
+		"/Users/igorstaroseltsev/Documents/R/machine_learning/apply",
+		"/Users/igorstaroseltsev/Desktop/R/etude_carceral/import.py",
+		"/Users/igorstaroseltsev/Desktop/R/etude_carceral/sqlread.py",
+		"/Users/igorstaroseltsev/Desktop/R/UNdata/test.svg",
+		"/Volumes/USB DISK/tutoriels_igor_usb/etl/petl/tuto6_select_sort/biselect_sort.py",
+		"/Users/igorstaroseltsev/Desktop/projet/base2.py",
+		"/Users/igorstaroseltsev/Desktop/projet/base.py",
+		"/Users/igorstaroseltsev/Desktop/projet/distance.py",
+		"/Users/igorstaroseltsev/Desktop/first.jl",
+		"/Users/igorstaroseltsev/Desktop/ml.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/vague2/tuto1_intervalle/percentile.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/tuto6_function/ma_fonction.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/tuto7_input/inp.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_apprentissage/tuto5_for/etape1_liste_range/listes.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/tuto8_condition/cond.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/inp.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/tuto5_for/sidesfill.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/tuto5_for/sides.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/fuzzy/fuz.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/fuzzy/fuz_choice.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/tuto4_while/spirale.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/tuto4_while/circle.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/tuto3_mouvement_variable/exercice_turtle.py",
+		"/Users/igorstaroseltsev/Documents/tutoriel_python_divers/classes/exercice_turtle.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto13_tableau_croise_dynamique/code.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto9_serie_scinder_rename/scinder.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto8_aggregation_complexe/agregation_complexe.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto3_cut_csv/select_cols.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/pygal_visualisation/tuto1_bar/first.svg",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto6_select_sort/biselect_sort.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/etl/petl/tuto10_doublons_additions_tables/doublons.py",
+		"/Users/igorstaroseltsev/Documents/apprentissage_python/turtle_python/code/premiers_codes/first.py",
+		"/Users/igorstaroseltsev/Documents/apprentissage_python/turtle_python/code/premiers_codes/drag.py",
+		"/Volumes/USB DISK/etude_nombre_dp/JDPV2DP/mactraitement.py",
+		"/Volumes/USB DISK/etude_nombre_dp/JDPV2DP/traitement.py",
+		"/Users/igorstaroseltsev/Documents/apprentissage_python/turtle_python/code/ooturtle/turtlebox.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/sqlite/tuto7_appenddb/append_data.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/sqlite/tuto9_update_delete/update_delete.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/sqlite/tuto7_appenddb/insert_data.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/sqlite/tuto1_create_insert/sqlitecreate.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/environnement_virtuel_methode/test.txt",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/licence.txt",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor_ordi/sync2",
+		"/Volumes/USB DISK/tutoriels_igor_usb/test",
+		"/Volumes/USB DISK/tutoriels_igor_usb/sync",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor/etl/petl/tuto3_cut/select_cols.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor/sqlite/tuto2_sql_read/sqlread.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor/python_word/tutoriel/tuto3_table/scinder.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor/pygal_visualisation/table/ttab.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor/python_word/tutoriel/tuto4_fomattage/format.py",
+		"/var/root/.bash_profile",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor/pygal_visualisation/tuto6_pie/pie.py",
+		"/Users/igorstaroseltsev/Documents/projet_livre/tutoriels_igor/pygal_visualisation/testxy.py",
+		"/Users/igorstaroseltsev/Desktop/testst/html.html",
+		"/Users/igorstaroseltsev/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/igorstaroseltsev/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/igorstaroseltsev/Library/Application Support/Sublime Text 3/Packages/User/semicolon.sublime-macro"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
